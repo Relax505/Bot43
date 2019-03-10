@@ -1,6 +1,6 @@
 owner=520866071889182721
-prefix=S
-game=Splay
+prefix=ق
+game=قplay
 stayinchannel=true
 songinstatus=true
-token=NTIyODcxMDY4NTE2NTQ4NjQ4.DyfdvA.gPgW3kVB230N_QDvcJbowHhwoao
+token=NTU0MzUwNDQyNDY1ODUzNDQw.D2bW9Q.YaLajGfi2_UZjxT6FGQt0Ci2c-8
